@@ -1,10 +1,10 @@
 ### <div align="center">Hi 👋! My name is Ahsan and I'm a Machine Learning Engineer 👨‍💻</div>
 
-- 🔭 I’m currently working on LLMs & LVMs
+- 🔭 I’m currently working on LLMs & LVMs.
   
-- 🌱 I’m currently learning MLOps & Deep Learning
+- 🌱 I’m currently learning MLOps & Deep Learning.
   
-- ❓ Ask me about anything related to AI & ML
+- ❓ Ask me about anything related to AI & ML.
   
 
 <br/>
