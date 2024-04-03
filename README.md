@@ -1,6 +1,6 @@
 ### <div align="center">Hi 👋! My name is Ahsan and I'm a Machine Learning Engineer 👨‍💻</div>
 
-- 🔭 I’m currently working on LLMs & LVMs.
+- 🔭 I’m currently working on some AI Applications.
   
 - 🌱 I’m currently learning MLOps & Deep Learning.
   
